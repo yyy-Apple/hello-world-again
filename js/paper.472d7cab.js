@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["paper"],{"112a":function(e,a,t){"use strict";t.r(a);var n=function(){var e=this,a=e.$createElement,t=e._self._c||a;return t("div",{staticClass:"paper"},[e._v(" This is the paper page. ")])},p=[],s={},r=s,i=t("2877"),l=Object(i["a"])(r,n,p,!1,null,null,null);a["default"]=l.exports}}]);
+//# sourceMappingURL=paper.472d7cab.js.map

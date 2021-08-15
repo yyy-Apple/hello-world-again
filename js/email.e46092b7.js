@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["email"],{"4fdd":function(e,t,a){"use strict";a.r(t);var i=function(){var e=this,t=e.$createElement,a=e._self._c||t;return a("div",{staticClass:"email"},[e._v(" This is the email page ")])},l=[],n={},s=n,c=a("2877"),u=Object(c["a"])(s,i,l,!1,null,null,null);t["default"]=u.exports}}]);
+//# sourceMappingURL=email.e46092b7.js.map
